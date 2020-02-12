@@ -1,0 +1,2 @@
+# BinancePairs
+Binance pairs
